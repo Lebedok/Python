@@ -1,0 +1,4 @@
+def my_function(*brothers):
+  print("The youngest brother is " + brothers[2])
+
+my_function("John", "Mike", "Frank")
