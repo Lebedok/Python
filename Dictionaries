@@ -1,0 +1,7 @@
+thisdict =	{
+  "brand": "Mers",
+  "model": "S600",
+  "year": 2000
+}
+thisdict["color"] = "black"
+print(thisdict)
